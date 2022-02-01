@@ -21,6 +21,5 @@ python src/generate_art.py -n 32 --collection "gab"
 
 It should generate an image like this:
 
-![example_image](output/gab/gab_image_5.png)![example_image](output/gab/gab_image_26.png)![example_image](output/gab/gab_image_29.png)![example image](output/gabri/gabri_image_31.png)![example image](output/gabriteste/gabriteste_image_3.png)![example image](output/gabriteste/gabriteste_image_31.png)
-
+![example_image](images/alpha_001_preview.png)
 
