@@ -1,6 +1,6 @@
 # NFT-Art-Generator
 
-![preview](output/gab/gab_image_28.png)![preview](output/gab/gab_image_18.png)![preview](output/gab/gab_image_19.png)![preview](output/gabri/gabri_image_13.png)![preview](output/teste/teste_image_80.png)![preview](output/gabriteste/gabriteste_image_0.png)
+![preview](images/mp_banner.png)
 
   This is a tutorial for creating generative abstract art-work using Python. It is based on a generative art NFT collection I created earlier ([source](https://github.com/gabrielmuller1/NFT-Art-Generator)). But this tutorial project is simplified and only focuses on using Python to create the image.
 
