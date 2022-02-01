@@ -1,6 +1,6 @@
 # NFT-Art-Generator
 
-![preview](gab/gab_image_28.png)
+![preview](output/gab/gab_image_28.png)
 
 This is a tutorial for creating generative abstract art-work using Python. It is based on a generative art NFT collection I created earlier, called [Machine Psychology](https://www.mach-psy.com/) ([source](https://github.com/pixegami-team/machine-psychology-python-art)). But this tutorial project is simplified and only focuses on using Python to create the image.
 
