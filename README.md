@@ -15,8 +15,8 @@ pip install pillow
 You can run it like this.
 
 ```bash
-# Generates a collection called 'foo' with 32 pieces into ./output/foo/
-python src/generate_art.py -n 32 --collection "foo"
+# Generates a collection called 'gab' with 32 pieces into ./output/gab/
+python src/generate_art.py -n 32 --collection "gab"
 ```
 
 It should generate an image like this:
